@@ -18,3 +18,7 @@ robot -d results .\Teste01.robot
 robot -d results .\Teste01.robot
 robot -d results .\Teste01.robot
 O relatorio do teste se enontra na pasta results
+
+No arquivo zip, adcionei a execução feita por video.
+
+Obrigado
