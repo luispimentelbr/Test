@@ -1,0 +1,20 @@
+Pra executar o Mocha com as API é com o comando. npm test
+
+Pra executar teste em web é necessario instalar a biblioteca 
+pip install robotframework
+pip install robotframework-appiumlibrary
+
+Pra executar os arquivos de automação digite;
+robot -d results .\Testeweb1.robot
+robot -d results .\Testeweb2.robot
+O relatorio do teste se enontra na pasta results
+
+
+Pra executar teste em app é necessario instalar a biblioteca 
+pip install robotframework-appiumlibrary
+
+Pra executar os arquivos de automação digite;
+robot -d results .\Teste01.robot
+robot -d results .\Teste01.robot
+robot -d results .\Teste01.robot
+O relatorio do teste se enontra na pasta results
