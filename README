@@ -20,5 +20,7 @@ robot -d results .\Teste01.robot
 O relatorio do teste se enontra na pasta results
 
 No arquivo zip, adcionei a execução feita por video.
+OBS: É necessário instalar o Node.js no diretorio Appium
+site oficial do Node.js: https://nodejs.org/
 
 Obrigado
